@@ -1,5 +1,6 @@
 server:
   port: 5011
+
 eureka:
   client:
     fetch-registry: true
