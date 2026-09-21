@@ -1,5 +1,5 @@
 server:
-  port: 5504
+  port: 5506
 
 spring:
   jpa:
